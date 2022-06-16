@@ -1,1 +1,11 @@
-
+.text{
+    font-size: large;
+    font-weight: bold;
+}
+.logo{
+    font-size: 38px;
+    padding-left: 8vw
+}
+.d-flex{
+    padding-left: 50vw;
+}
