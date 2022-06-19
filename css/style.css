@@ -78,4 +78,10 @@
         overflow: scroll;
         
     }
+    .section1{
+        margin: 5%;
+        margin-bottom: 18%;
+        padding: 5%;
+        overflow: scroll;
+    }
 }
